@@ -14,7 +14,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 
 | # | Date | Problem Name | Pattern / Tag | Difficulty | Time Complexity | Space Complexity | Solution |
 |---|---|---|---|---|---|---|---|
-| 01 | 2026-09-24 | *Upcoming Daily Challenge* | — | — | — | — | — |
+| 01 | 2026-09-24 | 4Sum | Two Pointers + Sorting | Medium | O(N^3) | O(1) | [https://leetcode.com/problems/4sum/submissions/2152236506/?envType=problem-list-v2&envId=two-pointers] |
 
 ---
 
