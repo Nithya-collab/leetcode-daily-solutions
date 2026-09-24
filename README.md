@@ -14,7 +14,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 
 | # | Date | Problem Name | Pattern / Tag | Difficulty | Time Complexity | Space Complexity | Solution |
 |---|---|---|---|---|---|---|---|
-| 02 | 2026-09-24 | *Upcoming Daily Challenge* | — | — | — | — | — |
+| 01 | 2026-09-24 | *Upcoming Daily Challenge* | — | — | — | — | — |
 
 ---
 
