@@ -5,7 +5,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 ---
 
 ###  Tech Stack & Language Support
-- **Languages:** C++, Java, Python
+- **Languages:** C++
 - **Key Focus:** Optimal Time & Space Complexity ($O(N)$ / $O(1)$ targets), Clean Architecture, Reusable Patterns
 
 ---
@@ -14,8 +14,8 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 
 | # | Date | Problem Name | Pattern / Tag | Difficulty | Time Complexity | Space Complexity | Solution |
 |---|---|---|---|---|---|---|---|
-| 01 | 2026-09-24 | 4Sum | Two Pointers + Sorting | Medium | O(N^3) | O(1) | [https://leetcode.com/problems/4sum/submissions/2152236506/?envType=problem-list-v2&envId=two-pointers] |
-
+| 01 | 2026-09-24 | 18 . 4Sum | Two Pointers + Sorting | Medium | O(N^3) | O(1) | [https://leetcode.com/problems/4sum/submissions/2152236506/?envType=problem-list-v2&envId=two-pointers] |
+| 02 | 2026-09-25 | 83. Remove Duplicates from Sorted List |  Two Pointers + Sorting advantage | Easy | O(N) | O(1) | [https://leetcode.com/problems/remove-duplicates-from-sorted-list/] | 
 ---
 
 ###  Topic Index
