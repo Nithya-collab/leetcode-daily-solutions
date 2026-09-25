@@ -42,4 +42,8 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
