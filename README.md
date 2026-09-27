@@ -33,6 +33,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
@@ -46,4 +47,8 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
