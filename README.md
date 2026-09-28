@@ -39,6 +39,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Hash Table
 |  |
