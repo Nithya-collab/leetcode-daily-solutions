@@ -45,6 +45,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0016-3sum-closest](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0086-partition-list) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0086-partition-list) |
 ## Hash Table
 |  |
 | ------- |
