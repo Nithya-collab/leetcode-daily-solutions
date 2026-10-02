@@ -35,12 +35,14 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | ------- |
 | [0001-two-sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
@@ -48,6 +50,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
 ## Linked List
