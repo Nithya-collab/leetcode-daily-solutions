@@ -38,6 +38,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0016-3sum-closest](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
+| [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0148-sort-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
+| [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | ------- |
 | [0001-two-sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
