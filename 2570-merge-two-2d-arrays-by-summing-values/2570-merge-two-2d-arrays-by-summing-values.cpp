@@ -2,12 +2,6 @@ class Solution {
 public:
     vector<vector<int>> mergeArrays(vector<vector<int>>& nums1, vector<vector<int>>& nums2) {
         vector<vector<int>> result;
-        for(int i=0;i<nums1.size();++i){
-            for(int j=0;j<nums1[i].size();++j){
-
-            }
-        }
-
         int i=0;
         int x=0;
         while(i < nums1.size() && x < nums2.size()){
