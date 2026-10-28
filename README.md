@@ -49,6 +49,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
@@ -69,6 +70,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
@@ -102,4 +104,12 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
