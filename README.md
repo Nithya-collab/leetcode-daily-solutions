@@ -42,6 +42,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 ## Stack
 |  |
 | ------- |
