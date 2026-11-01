@@ -57,6 +57,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0148-sort-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0165-compare-version-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -113,6 +114,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
@@ -131,4 +133,8 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
