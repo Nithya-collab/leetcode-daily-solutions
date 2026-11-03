@@ -44,6 +44,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -67,6 +68,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3643-flip-square-submatrix-vertically) |
