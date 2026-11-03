@@ -45,6 +45,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2465-number-of-distinct-averages) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
 | ------- |
