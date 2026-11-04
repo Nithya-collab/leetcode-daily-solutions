@@ -72,6 +72,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3794-reverse-string-prefix](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0165-compare-version-numbers) |
+| [3794-reverse-string-prefix](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
