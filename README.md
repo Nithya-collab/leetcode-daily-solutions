@@ -73,6 +73,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0151-reverse-words-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0165-compare-version-numbers) |
 | [3794-reverse-string-prefix](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
