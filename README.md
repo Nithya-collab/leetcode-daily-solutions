@@ -63,6 +63,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0165-compare-version-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -95,6 +96,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0086-partition-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0148-sort-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0143-reorder-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
