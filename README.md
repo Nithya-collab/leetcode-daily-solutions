@@ -38,6 +38,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0016-3sum-closest](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -63,6 +64,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0165-compare-version-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -85,6 +87,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0018-4sum](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0148-sort-list) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -156,4 +159,8 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0633-sum-of-square-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
