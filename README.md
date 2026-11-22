@@ -72,6 +72,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2465-number-of-distinct-averages) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -117,6 +118,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0165-compare-version-numbers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3794-reverse-string-prefix](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
@@ -166,4 +168,5 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
