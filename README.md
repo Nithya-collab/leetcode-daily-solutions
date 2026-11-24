@@ -41,6 +41,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [1861-rotating-the-box](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2465-number-of-distinct-averages) |
@@ -69,6 +70,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2465-number-of-distinct-averages) |
@@ -91,6 +93,7 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 | [0148-sort-list](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0148-sort-list) |
 | [0905-sort-array-by-parity](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -168,5 +171,6 @@ A systematic archive of daily problem-solving solutions across LeetCode Daily Ch
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nithya-collab/leetcode-daily-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
